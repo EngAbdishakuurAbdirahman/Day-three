@@ -1,0 +1,228 @@
+.container{
+    background-color: chocolate;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    flex-wrap: wrap;
+    
+}
+.Box1{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+.Box2{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box3{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box4{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+
+.containerr{
+    background-color: rgb(18, 8, 87);
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    
+}
+.Box5{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+.Box6{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box7{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box8{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+
+.containerrr{
+    background-color: rgb(255, 0, 136);
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    
+}
+.Box9{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+.Box10{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box11{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box12{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+ .container3{
+    background-color: rgb(89, 88, 96);
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.Box17{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+.Box18{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box19{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box20{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+
+.container4{
+    background-color: rgb(17, 164, 79);
+    padding: 10px 0;
+    display: flex;
+    justify-content:end ;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    
+}
+.Box21{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+.Box22{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box23{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box24{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+
+  .container2{
+    background-color: rgb(20, 19, 18);
+    padding: 10px 0;
+    display: flex;
+    justify-content: start;
+    margin-top: 15px;
+    
+} 
+.Box13{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+
+}
+.Box14{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box15{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+}
+.Box16{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+    text-align: center;
+    flex-wrap: wrap;
+
+} 
+
+
+
+
+
+
+
+ 
